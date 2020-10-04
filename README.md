@@ -24,6 +24,6 @@ If you are new to Open source or github. You can follow this [wonderful guide](h
 
 ### Have queries?
 
-You can reach out to me on [twitter](www.twitter.com/sidanand67) or [linkedin](www.linkedin.com/in/sidanand67)
+You can reach out to me on [twitter](https://twitter.com/sidanand67) or [linkedin](https://www.linkedin.com/in/sidanand67/)
 
 _Keep Learning with Open Source_
